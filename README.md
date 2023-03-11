@@ -2,7 +2,7 @@
 
 #To start the local server run
 
-npx react native-start
+npx react-native start
 
 #To run on Android
 
